@@ -1,0 +1,13 @@
+ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+::placeholder{
+    color: red;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    background-image: url('../img/banner.png');
+}
